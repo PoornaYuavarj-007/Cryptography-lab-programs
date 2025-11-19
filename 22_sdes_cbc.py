@@ -20,5 +20,20 @@ def sdes_cbc():
     print("- Key generation")
     print("- F function with S-boxes")
 
+OUTPUT:Plaintext: 0000000100100011
+Key: 0111111101
+IV: 10101010
+
+CBC Mode process:
+C1 = E(K, P1 ⊕ IV)
+C2 = E(K, P2 ⊕ C1)
+
+Expected ciphertext: 11110100 00001011
+
+Note: Full S-DES implementation requires:
+- Initial and final permutations
+- Key generation
+- F function with S-boxes
+
 if __name__ == "__main__":
     sdes_cbc()
