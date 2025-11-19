@@ -33,3 +33,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+OUTPUT:Enter keyword for matrix: HELLO
+Ciphertext: KXJEYUREBEZWEHEWRYTUHEYFSKREHEGOYFIWTTTUOLKSYCAJPOBOTEIZONTXBYBNTGONEYCUZWRGDSONSXBOUYWRHEBAAHYDSEDQ
+Decrypt using playfair matrix
