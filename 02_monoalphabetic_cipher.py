@@ -34,3 +34,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+OUTPUT:'e' for encrypt, 'd' for decrypt: e
+Enter text: py
+Enter 26-letter key: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Encrypted: PY
