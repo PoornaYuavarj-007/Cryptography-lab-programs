@@ -42,3 +42,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+OUTPUT:'e' for encrypt, 'd' for decrypt: D
+Enter text: PY
+Enter key: HELLO
+Decrypted: IU
