@@ -24,3 +24,11 @@ def keyword_cipher():
 
 if __name__ == "__main__":
     keyword_cipher()
+
+OUTPUT:Enter keyword: PY
+Enter plaintext: HELLO
+
+Plain:  ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Cipher: PYABCDEFGHIJKLMNOQRSTUVWXZ
+
+Encrypted: FCJJM
