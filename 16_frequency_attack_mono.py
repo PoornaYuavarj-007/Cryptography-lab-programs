@@ -36,3 +36,14 @@ def frequency_attack_mono():
 
 if __name__ == "__main__":
     frequency_attack_mono()
+    
+OUTPUT:Enter ciphertext: HELO
+
+Frequency analysis mapping:
+H → E
+E → T
+L → A
+O → O
+
+Decrypted text:
+ETAO
