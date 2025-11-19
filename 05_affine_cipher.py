@@ -48,3 +48,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+OUTPUT:Valid 'a': 1,3,5,7,9,11,15,17,19,21,23,25
+'e' for encrypt, 'd' for decrypt: E
+Enter text: PY
+Enter a: 5
+Enter b: 3
+Encrypted: AT
