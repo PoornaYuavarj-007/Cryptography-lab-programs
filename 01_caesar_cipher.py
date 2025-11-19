@@ -26,3 +26,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+OUTPUT:Enter 'e' for encrypt or 'd' for decrypt: E
+Enter text: PY
+Enter shift value (1-25): 3
+Encrypted: SB
