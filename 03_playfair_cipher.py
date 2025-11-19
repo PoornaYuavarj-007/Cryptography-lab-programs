@@ -46,3 +46,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+OUTPUT:Enter keyword: HELLO
+Enter plaintext: PY
+Encrypted: NZ
