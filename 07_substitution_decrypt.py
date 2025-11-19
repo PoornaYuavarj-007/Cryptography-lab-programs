@@ -33,3 +33,23 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+OUTPUT:Enter ciphertext: HELLO
+
+Frequency Analysis:
+L: 2
+H: 1
+E: 1
+O: 1
+
+Hints:
+- Most common English letter: E
+- Common word: THE
+- Look for repeated patterns
+
+Cipher char (or 'done'): L
+Maps to: I
+
+Cipher char (or 'done'): DONE
+
+Decrypted: HEIIO
