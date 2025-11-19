@@ -22,3 +22,38 @@ def frequency_attack_additive():
 
 if __name__ == "__main__":
     frequency_attack_additive()
+
+OUTPUT:Enter ciphertext: HELLO
+How many top results? (default 10): 10
+
+Top 10 possible plaintexts:
+
+1. Shift 0:
+HELLO
+
+2. Shift 1:
+GDKKN
+
+3. Shift 2:
+FCJJM
+
+4. Shift 3:
+EBIIL
+
+5. Shift 4:
+DAHHK
+
+6. Shift 5:
+CZGGJ
+
+7. Shift 6:
+BYFFI
+
+8. Shift 7:
+AXEEH
+
+9. Shift 8:
+ZWDDG
+
+10. Shift 9:
+YVCCF
